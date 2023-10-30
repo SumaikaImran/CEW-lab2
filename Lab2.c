@@ -127,13 +127,13 @@
 //   printf("enter feet:\n");
 //   scanf("%d",&d1.feet);
 //   printf("enter inch:\n");
-//   scanf("%d",&d1.inches);
+//   scanf("%f",&d1.inches);
   
 //   printf("enter 2nd distance:\n");
 //   printf("enter feet:\n");
 //   scanf("%d",&d2.feet);
 //   printf("enter inch:\n");
-//   scanf("%d",&d2.inches);
+//   scanf("%f",&d2.inches);
 
 //   sum.feet=d1.feet+d2.feet;
 //   sum.inches=d1.inches+d2.inches;
